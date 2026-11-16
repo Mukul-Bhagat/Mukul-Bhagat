@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co/gbXJGchX/github-banner.png" alt="Mukul Bhagat - Software Developer" width="100%" />
+<img src="https://ibb.co/nMhw574v" alt="Mukul Bhagat - Software Developer" width="100%" />
 
 # Hi, I'm Mukul Bhagat 👋
 
