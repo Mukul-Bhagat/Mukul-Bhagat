@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://ibb.co/nMhw574v" alt="Mukul Bhagat - Software Developer" width="100%" />
+<img src="https://i.ibb.co/7t7S6nB5/Mukul-Bhagat-s-Futuristic-Developer-Portfolio-Banner.png" alt="Mukul Bhagat - Software Developer, Full Stack, AI and DevOps" width="100%" />
+
+<br/>
 
 # Hi, I'm Mukul Bhagat 👋
 
@@ -9,13 +11,13 @@
 
 <p>
   <a href="https://mukulbhagat.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mukul-bhagat">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mukulbhagat001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -83,8 +85,8 @@ Worked on an AI-powered PDF Retrieval-Augmented Generation (RAG) project focused
 - Explored document chunking and embedding-based retrieval.
 - Used vector-based search to retrieve relevant document context.
 - Integrated Ollama-based language models for generating contextual responses.
-- Worked on connecting document retrieval with language model generation.
-- Focused on improving the relevance of answers using retrieved document information.
+- Connected document retrieval with language model generation.
+- Focused on improving answer relevance using retrieved document information.
 
 **Tech Stack:**
 
@@ -197,7 +199,7 @@ Savitribai Phule Pune University (SPPU)
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul-Bhagat&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Mukul-Bhagat&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
@@ -207,16 +209,24 @@ Savitribai Phule Pune University (SPPU)
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, learning new technologies, and exploring opportunities in Software Development, Full-Stack Development, Mobile Development, and Cloud/DevOps.
-
-<p align="center">
-  <a href="https://mukulbhagat.onrender.com/">Portfolio</a> •
-  <a href="https://linkedin.com/in/mukul-bhagat">LinkedIn</a> •
-  <a href="https://github.com/Mukul-Bhagat">GitHub</a> •
-  <a href="mailto:mukulbhagat001@gmail.com">Email</a>
-</p>
+I'm always interested in connecting with developers, learning new technologies, and exploring opportunities in **Software Development, Full-Stack Development, Mobile Development, AI/ML, and Cloud/DevOps**.
 
 <div align="center">
+
+<p>
+  <a href="mailto:mukulbhagat001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mukulbhagat001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/mukul-bhagat">
+    <img src="https://img.shields.io/badge/LinkedIn-Mukul%20Bhagat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mukulbhagat.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ### 💡 Building useful things, learning continuously, and improving with every project.
 
