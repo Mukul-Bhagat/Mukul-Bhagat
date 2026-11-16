@@ -1,3 +1,3 @@
 ## Hey there!! 👋
 
-Welcome to my GitHub Account.
+Software Developer | Full Stack Developer | Mobile App Developer | Cloud & DevOps Enthusiast | AI/ML Developer
